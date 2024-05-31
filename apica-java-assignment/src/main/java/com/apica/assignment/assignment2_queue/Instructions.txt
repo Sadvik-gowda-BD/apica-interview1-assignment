@@ -1,0 +1,11 @@
+Write an implementation of a FIFO queue called MyQueue that is thread safe and can be instantiated for a specific type at compile time (hint: Generics).
+
+
+Queue implementation should have an add() and a remove() method.
+Queue should throw an checked QueueEmptyException (you have to create this) if remove() is invoked on an empty queue.
+
+Feel free to use any classes in the JDK you like.
+
+Provide a JUnit test class with 3 test cases.
+2 test cases using the queue with 2 different types, String and Integer. Test should perform at least one add() and one remove() invocation on the queue. 
+1 test case verifying that the exception is thrown when remove is invoked on an empty queue.

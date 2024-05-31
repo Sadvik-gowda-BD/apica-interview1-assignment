@@ -1,0 +1,8 @@
+This test contains 5 assignments organized in this maven project as seperate packages under com.apica.assignments.
+
+Read the instructions.txt under each package and do as instructed.
+
+If anything is unclear or you don't know exactly what to do, make assumptions and document in the code as comments.
+You are free to use any resource available online to complete the assignments.
+
+You will have 1 hour to complete the assignments. Good luck! 

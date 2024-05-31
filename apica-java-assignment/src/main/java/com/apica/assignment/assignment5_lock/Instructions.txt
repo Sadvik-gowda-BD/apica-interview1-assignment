@@ -1,0 +1,2 @@
+Copy the Queue class you created during assignment 2 and rename it to MyLockedQueue and modify it use java.util.concurrent.locks.ReentrantLock if you didn't use that before.
+Provide a comment in class header explaining any difference in behavior compared to previous implementation.

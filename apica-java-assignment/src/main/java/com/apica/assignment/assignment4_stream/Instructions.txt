@@ -1,0 +1,2 @@
+Implement the getOddNumbers(List<Integer> numbers) method in the provided StreamAssignment class to pass the test provided in TestStreamAssignment.
+The implementation should use the stream feature of the JDK to filter and collect.

@@ -1,0 +1,2 @@
+Implement a class that behaves as a Singleton (pattern) called MySingleton that guarantees a single instance of the class in a multi-threaded application.
+Make sure class cannot be extended.

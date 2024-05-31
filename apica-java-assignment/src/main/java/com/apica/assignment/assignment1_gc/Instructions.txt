@@ -1,0 +1,3 @@
+Modify Example.java and assign variable objectsEligibleForGC the number of objects eligible for garbage collection when the System.out.println(...) is executed.
+
+Think this one through before answering.
